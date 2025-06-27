@@ -2,6 +2,8 @@
 
 🚀 [**Aplicación desplegada**](https://cyber-product-verse.lovable.app)
 
+🎥 [**Video Explicativo**](https://drive.google.com/file/d/1CLDRoDpZIJZseELxJEJYvLFBmjQCH8fE/view?usp=sharing)
+
 ---
 
 ## 📜 Descripción del Proyecto
