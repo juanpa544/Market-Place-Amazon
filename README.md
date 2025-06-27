@@ -1,5 +1,7 @@
 🤖 Marketplace con Asesor de IA por Voz
+
 🚀 Demo en Vivo
+
 Prueba la aplicación aquí: https://cyber-product-verse.lovable.app
 📜 Descripción del Proyecto
 Este proyecto es un MVP (Minimum Viable Product) para un marketplace de nueva generación, desarrollado como respuesta a una prueba técnica. El objetivo principal fue construir una experiencia de compra futurista donde los usuarios no solo pueden navegar por productos, sino también interactuar con un asesor de IA por voz que ofrece recomendaciones contextuales y en tiempo real.
