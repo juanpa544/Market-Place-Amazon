@@ -74,3 +74,22 @@ La aplicación simula una experiencia de compra personal y guiada, transformando
 🔊 Síntesis de Audio (Text-to-Speech)
    ↓
 🧏‍♂️ Reproducción Automática en Navegador
+```
+---
+
+## 📩 Contacto
+
+Puedes contactarme a través de:
+
+- ✉️ **Correo:** [jblancomarquez54@gmail.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/juan-pablo-blanco-marquez-b61797279/](https://www.linkedin.com/in/juan-pablo-blanco-marquez-b61797279/)
+- 🧠 **Portafolio / GitHub:** [https://github.com/juanpa544](https://github.com/juanpa544)
+
+> ¡Estoy abierto a nuevas oportunidades, colaboraciones y retos técnicos interesantes!
+
+---
+
+## 🙌 Gracias por tomarte el tiempo de revisar este proyecto!
+
+---
+
