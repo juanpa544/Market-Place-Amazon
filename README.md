@@ -4,6 +4,10 @@
 
 🎥 [**Video Explicativo**](https://youtu.be/a3TOb_VXWN4)
 
+❤️ [**Proyecto Lovable**](https://github.com/juanpa544/cyber-product-verse)
+
+⚡ [**SupaBase**](https://supabase.com/dashboard/project/usaomokahfdaxgfjxzpn)
+
 ---
 
 ## 📜 Descripción del Proyecto
